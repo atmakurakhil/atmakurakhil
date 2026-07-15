@@ -2,57 +2,61 @@
 
 # Akhil
 
-### AI systems that win back the hours and deals you're losing.
+**I build AI systems that win back the hours — and deals — B2B teams are losing.**
 
-I build AI automation for B2B founders and agencies — and the products that fall out of doing it.
-
-**I don't invent from scratch. I find what works, rebuild it better, and ship it before it's ready.**
+Founder-operator · AI automation for founders & agencies · turning the sharpest builds into products
 
 </div>
 
 ---
 
-## How I think
+## 📊 Receipts
 
-Seven patterns show up across everything I build:
+The proof isn't the code. It's what the systems moved.
 
-1. **Marketing is the bottleneck, not the product** — most tools don't die from bad code, they die unseen. I lead with go-to-market.
-2. **Remix over invent** — find the best version that exists, then re-engineer it better. Copy-paste, but make it sharper than the original.
-3. **Strategic over ego** — every real decision runs through one question: *what would my future self want me to do here?*
-4. **Ship wrong, fast** — a wrong execution is a lesson; planning that never ships is just procrastination wearing a suit.
-5. **Compounding wins** — steady compounding beats chasing the instant result. (Still fighting my own impatience on this one.)
-6. **Believe, then act** — pre-load the identity, then move. Not delusion — a starting posture.
-7. **Sense the leak early** — trust the gut signal that something's about to break before it actually does.
-
-## What the systems have done
-
-The proof isn't the code — it's the numbers it moved:
-
-- **48,000+ qualified leads** pulled through a single lead-gen pipeline.
-- **$200K+ in client revenue** driven off systems I built.
-- **36 hours → 4 minutes** lead-response time for a US EdTech client — no new hires, 3 deals closed in the first two weeks off that alone.
-- **3-hour manual onboarding → 4 minutes**, fully automated.
-
-## What I've shipped
-
-- 🧠 **[Pragma](https://github.com/atmakurakhil/Pragma)** — memory-as-a-service API for AI agents. Persistent memory + context management, so your agents stop forgetting who they're talking to. *(Flagship — building now.)*
-- 🖥️ **[Sentient](https://github.com/atmakurakhil/Sentient)** — talk to an AI, watch it turn your idea into a roadmap and then an interactive node graph. A generative-UI architecture canvas, built from a blank screen in 6 hours — and it won an AI hackathon against teams who showed up with pre-built codebases.
-- 🩺 **[iaso](https://github.com/atmakurakhil/iaso)** — AI-powered n8n workflow monitoring that auto-repairs broken automations and runs Claude diagnostics before you even notice they broke.
-- 🎯 **[salvo](https://github.com/atmakurakhil/salvo)** — an autonomous AI SDR agent: finds leads, qualifies them, books the meeting.
-- ⚡ **[FlowMate](https://flowmater.vercel.app/)** — my AI automation agency. Lead-gen and ops systems for B2B founders who are drowning in manual work.
-
-## Portfolio
-
-[**flowmater.vercel.app**](https://flowmater.vercel.app/) — what I build for founders, and the results it ships.
-
-## Connect
-
-- LinkedIn: [@atmakurakhil](https://www.linkedin.com/in/atmakurakhil/)
-- Instagram: [@atmakurakhil.ai](https://www.instagram.com/atmakurakhil.ai/)
-- GitHub: [@atmakurakhil](https://github.com/atmakurakhil)
+| 48,000+ | $200K+ | 36h → 4min | 3h → 4min |
+|:---:|:---:|:---:|:---:|
+| qualified leads from **one** pipeline | client revenue driven | lead response, US EdTech<br>*(3 deals closed in 2 weeks)* | onboarding, now automated |
 
 ---
 
-<sub>Built with AI agentic tooling as the pair programmer. I ship fast, remix hard, and let the numbers argue.</sub>
+## 🛠️ The work
+
+> I don't invent from scratch. I find what works, rebuild it sharper, and ship it before it's ready.
+
+| Project | What it does |
+|---|---|
+| 🧠 **[Pragma](https://github.com/atmakurakhil/Pragma)** | Memory-as-a-service API for AI agents — persistent memory + context, so your agents stop forgetting who they're talking to. *Flagship, in build.* |
+| 🖼️ **[Sentient](https://github.com/atmakurakhil/Sentient)** | Talk to an AI → it turns your idea into a roadmap, then a live interactive node graph. Built from a blank screen in 6 hours — and won an AI hackathon against teams who showed up with pre-built codebases. |
+| 🩺 **[iaso](https://github.com/atmakurakhil/iaso)** | Watches your n8n workflows, auto-repairs breakages, and runs Claude diagnostics before you even notice something snapped. |
+| 🎯 **[salvo](https://github.com/atmakurakhil/salvo)** | An autonomous AI SDR — finds leads, qualifies them, books the meeting. |
+| ⚡ **[FlowMate](https://atmakurakhil.vercel.app/)** | My AI automation agency: lead-gen and ops systems for founders drowning in manual work. |
 
 ---
+
+## 🧭 How I operate
+
+| Principle | In practice |
+|---|---|
+| **Marketing beats product** | Most tools die unseen, not unbuilt. I lead with go-to-market. |
+| **Remix, don't reinvent** | Find the best version that exists, then re-engineer it sharper than the original. |
+| **Strategic over ego** | Every real decision runs through one filter: *what would my future self want here?* |
+| **Ship it wrong, fast** | A wrong execution is a lesson. Planning that never ships is procrastination in a suit. |
+| **Compound, don't chase** | Steady compounding beats the instant result. *(Still fighting my own impatience.)* |
+| **Believe, then act** | Pre-load the identity, then move — not delusion, a starting posture. |
+| **Feel the leak early** | Trust the gut signal that something's about to break, before it actually does. |
+
+---
+
+## 🔗 See it live
+
+[**atmakurakhil.vercel.app**](https://atmakurakhil.vercel.app/) — the work, and the results it ships.
+
+## 👋 Find me
+
+- **LinkedIn** — [@atmakurakhil](https://www.linkedin.com/in/atmakurakhil/)
+- **Instagram** — [@atmakurakhil.ai](https://www.instagram.com/atmakurakhil.ai/)
+
+---
+
+<sub>Built fast, remixed hard, and measured in outcomes. If it can't be shipped, it isn't a plan.</sub>
