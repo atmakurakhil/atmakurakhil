@@ -2,9 +2,9 @@
 
 # Akhil
 
-**I build AI systems that win back the hours — and deals — B2B teams are losing.**
+**I don't sell software — I sell back the hours and deals you're losing.**
 
-Founder-operator · AI automation for founders & agencies · turning the sharpest builds into products
+Founder-operator building AI automation for B2B teams, then turning the sharpest builds into products of their own.
 
 </div>
 
