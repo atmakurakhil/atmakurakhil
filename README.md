@@ -14,9 +14,9 @@ Founder-operator — turning manual ops into automation, and the sharpest builds
 
 The proof isn't the code — it's what these systems actually moved.
 
-| 48,000+ | $200K+ | 36h → 4min | 3h → 4min |
+| 48,000+ | $200K+ | 36h → 4min | 45× faster |
 |:---:|:---:|:---:|:---:|
-| qualified leads from **one** pipeline | client revenue driven | lead response, US EdTech<br>*(3 deals closed in 2 weeks)* | onboarding, now automated |
+| qualified leads from **one** pipeline | client revenue driven | lead response, US EdTech<br>*(3 deals closed in 2 weeks)* | client onboarding, now automated |
 
 ---
 
@@ -55,7 +55,7 @@ The proof isn't the code — it's what these systems actually moved.
 ## 👋 Find me
 
 - **LinkedIn** — [@atmakurakhil](https://www.linkedin.com/in/atmakurakhil/)
-- **Instagram** — [@atmakurakhil.ai](https://www.instagram.com/atmakurakhil.ai/)
+- **Instagram** — [@atmakur.akhil](https://www.instagram.com/atmakur.akhil/)
 
 ---
 
