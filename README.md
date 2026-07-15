@@ -2,19 +2,19 @@
 
 # Akhil
 
-**I don't sell software — I sell back the hours and deals you're losing.**
+**I build AI systems that win back the hours and deals B2B teams are losing.**
 
-Founder-operator building AI automation for B2B teams, then turning the sharpest builds into products of their own.
+Founder-operator — turning manual ops into automation, and the sharpest builds into products of their own.
 
 </div>
 
 ---
 
-## 📊 Receipts
+## 📊 By the numbers
 
-The proof isn't the code. It's what the systems moved.
+The proof isn't the code — it's what these systems actually moved.
 
-| 48,000+ | $200K+ | 36h → 4min 
+| 48,000+ | $200K+ | 36h → 4min | 3h → 4min |
 |:---:|:---:|:---:|:---:|
 | qualified leads from **one** pipeline | client revenue driven | lead response, US EdTech<br>*(3 deals closed in 2 weeks)* | onboarding, now automated |
 
