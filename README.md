@@ -4,8 +4,6 @@
 
 **I build AI systems that win back the hours and deals B2B teams are losing.**
 
-Founder-operator — turning manual ops into automation, and the sharpest builds into products of their own.
-
 </div>
 
 ---
