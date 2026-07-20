@@ -54,6 +54,7 @@ The proof isn't the code — it's what these systems actually moved.
 
 - **LinkedIn** — [@atmakurakhil](https://www.linkedin.com/in/atmakurakhil/)
 - **Instagram** — [@atmakur.akhil](https://www.instagram.com/atmakur.akhil/)
+- **Email** - [akhil@aidaptics.com](akhil@aidaptics.com)
 
 ---
 
